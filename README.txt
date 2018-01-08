@@ -1,4 +1,4 @@
-TASK 2: Number System Program Using OOP Concepts in C++
+Number System Program Using OOP Concepts in C++
 -Eeshan Gupta 16CS30009
 
 Documentation:
